@@ -175,7 +175,7 @@ footer p {
 
 @media screen and (max-width: 768px) {
   .product {
-    width: 120%; /* Modificado */
+    width: 87%; /* Modificado */
     max-width: none; /* Modificado */
     margin: 10px 0; /* Modificado */
   }
