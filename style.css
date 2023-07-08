@@ -42,6 +42,8 @@ header nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  display: flex; /* Adicionado */
+  justify-content: center; /* Adicionado */
 }
 
 header nav ul li {
@@ -171,24 +173,14 @@ footer p {
   background-color: #555;
 }
 
-@media screen and (max-width: 768px){
-  .product{
-    width: 75%;
-    flex-direction: column;
-    max-width: 300px;
-  }
-
-  .product img{
-    width: 100%;
-    height: 300px;
+@media screen and (max-width: 768px) {
+  .product {
+    width: 100%; /* Modificado */
+    max-width: none; /* Modificado */
+    margin: 10px 0; /* Modificado */
   }
 
   .header-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 0px;
+    margin-bottom: 20px; /* Modificado */
+  }
 }
-}
-
-
