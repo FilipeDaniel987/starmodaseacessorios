@@ -175,7 +175,7 @@ footer p {
   .product{
     width: 95%;
     flex-direction: flex;
-    max-width: 380px;
+    max-width: 500px;
   }
 
   .product img{
