@@ -177,7 +177,7 @@ footer p {
   .product {
     width: 100%; /* Modificado */
     max-width: none; /* Modificado */
-    margin: 10px 0; /* Modificado */
+    margin: 0px 0; /* Modificado */
   }
 
   .header-container {
