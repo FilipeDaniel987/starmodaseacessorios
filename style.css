@@ -173,7 +173,7 @@ footer p {
 
 @media screen and (max-width: 320px){
   .product{
-    width: 85%;
+    width: 95%;
     flex-direction: flex;
     max-width: 380px;
   }
