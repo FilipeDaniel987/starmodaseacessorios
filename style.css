@@ -171,7 +171,7 @@ footer p {
   background-color: #555;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 768px){
   .product{
     width: 100%;
     flex-direction: column;
